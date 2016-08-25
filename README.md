@@ -1,2 +1,3 @@
-# hello-world
-First repo
+Hi world,
+
+I like 3d graphics, opengl, computer vision.
